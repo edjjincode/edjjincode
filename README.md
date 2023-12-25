@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jinchan Kim</h1>
-<h3 align="center">Grow Mindeset AI Engineer</h3>
+<h3 align="center">Growth Mindeset AI Engineer</h3>
 
 - 📝 I regularly write articles on [edjjincode.github.io](edjjincode.github.io)
 
