@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jinchan Kim</h1>
 <h3 align="center">Growth Mindset A.I Developer</h3>
 
-- 🔭 I’m currently working on **Deploying ML project by AWS-sagemaker**
+- 🔭 I’m currently working on **Deploying ML project by Airflow**
 
-- 🌱 I’m currently learning **AWS-sagemaker**
+- 🌱 I’m currently learning **Multimodal and MLOPs**
 
 - 📝 I regularly write articles on [edjjincode@github.io](edjjincode@github.io)
 
